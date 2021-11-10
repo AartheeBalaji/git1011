@@ -11,6 +11,10 @@ public class Sample {
 	}
 	private void tc3() {
 		System.out.println("method 3");
+		
+}
+	private void tc4() {
+System.out.println("method4");
 	}
 	public static void main(String[] args) {
 		Sample s = new Sample();
